@@ -1,1 +1,2 @@
-# springboot-project
+# getmyschool-api
+GetMySchool API
